@@ -1,5 +1,5 @@
 # The Build Lab
-Phillip Healy's Milestone Project 4: Full Stack Frameworks with Django. 
+Full Stack Frameworks project with Django. 
 The Build Lab is a website for people to come and learn about various deck building games. From Collectable Trading Card Games like Magic The Gathering, Yu-gi-oh, etc. To Living Card Games like Android: Netrunner. I'm obscessed with building decks and putting together strategy for a competitive edge, fun deck techs, or pure casual fun.
 
 For this project I thought a site centered around my love of card games, showing off some free advice and entertaining opinions on the games that are out there, as well as some content locked behind a paywall for more serious enthusiasts would be perfect.
